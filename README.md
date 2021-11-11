@@ -9,7 +9,7 @@ Week: 31 October, 2021 - 07 November, 2021
 Java，Kotlin，Flutter
 
 🔥 常用编辑器: 
-Android studio 
+Androidstudio 
 
 💻 操作系统: 
 windows macOS
