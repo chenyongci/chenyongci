@@ -1,22 +1,18 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
 
-- 💻**Android**：Java，Kotlin，Flutter
-
-**上周编码时长**  
-
 <!--START_SECTION:waka-->
 ```text
 Week: 31 October, 2021 - 07 November, 2021
 
 💬 编程语言: 
-No Activity tracked this Week
+Java，Kotlin，Flutter
 
 🔥 常用编辑器: 
-No Activity tracked this Week
+Android studio 
 
 💻 操作系统: 
-No Activity tracked this Week
+windows macOS
 
 ```
 
