@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 07 November, 2021
+[Week: 31 October, 2021 - 07 November, 2021](https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg)
 
 💬 编程语言: 
 Java，Kotlin，Flutter
