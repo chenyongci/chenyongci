@@ -13,17 +13,7 @@ AndroidStudio
 💻 操作系统: 
 windows macOS
 
-```
 
-
-<!--END_SECTION:waka-->
-
-<details>
-<summary>GitHub统计信息</summary>
-
-<br/>
-
-> 动态太少，不好意思展示
 
 
 
